@@ -1,0 +1,28 @@
+#link{
+font-family:cursive;
+font-size:20pt;
+text-align:center;
+color:green;
+display:inline-block;
+width:225px;
+text-decoration:none;
+opacity:0.8;
+background-color:rgba(10,52,92,0.5);
+position:relative;
+border:1px solid black;
+
+}
+#li{
+font-family:cursive;
+font-size:20pt;
+text-align:center;
+background:rgba(0,0,10.0.5);
+color:green;
+display:inline-block;
+width:225px;
+text-decoration:none;
+
+}
+form input:valid {
+  background: white;
+}
